@@ -1,8 +1,8 @@
 # Tweet-emotion-recognition
-**Overview**
+**Overview:**
 This project focuses on developing a tweet emotion recognition system using machine learning techniques. The goal is to classify the emotions expressed in tweets into predefined categories such as happy, sad, angry, etc.
 
-**Features**
+**Features:**
 Utilizes natural language processing (NLP) techniques to analyze text data from tweets.
 Implements machine learning algorithms for sentiment analysis and emotion classification.
 Supports preprocessing steps including tokenization, stemming, and stop-word removal.
